@@ -1,0 +1,71 @@
+Course Introduction
+https://youtu.be/UKx9rBaHE9o
+
+Syntax, Functions and Statements
+https://youtu.be/BIH18n8mFPg
+
+Exercise: Syntax, Functions and Statements
+https://youtu.be/A-WyyleJtzE
+
+Arrays and Nested Arrays
+https://youtu.be/MvULSwu5T44
+
+
+Exercise: Arrays and Nested Arrays
+https://youtu.be/uZCNBQMBm3o
+
+Objects and Composition
+https://youtu.be/8lx8YP1TRc4
+
+
+Exercise: Objects and Composition
+https://youtu.be/VP-JPz4u9ls
+
+DOM Introduction
+https://youtu.be/YhR4ne4f9i0
+
+Exercise: DOM Introduction
+https://youtu.be/i22Md3g4ZuU
+
+
+DOM Manipulations and Events
+https://youtu.be/RN2RZCQvbF0
+
+Exercise: DOM Manipulations and Events
+https://youtu.be/91dOgrcAEEQ
+
+Advanced Functions
+https://youtu.be/A3herQ4OoZo
+
+Exercise: Advanced Functions
+https://youtu.be/m196qMoUD0Y
+
+Unit Testing and Error Handling
+https://youtu.be/Lel_nVXHlBA
+
+Exercise: Unit Testing and Error Handling
+https://youtu.be/B0ih7ThJg60
+
+Classes
+https://youtu.be/eBphHCy1Uic
+
+Exercise: Classes
+https://youtu.be/MmUhP80EzBw
+
+Prototypes and Inheritance
+https://youtu.be/Qnkc1Tp3wSs
+
+Exercise: Prototypes and Inheritance
+https://youtu.be/eUTH0tFhpAo
+
+Exam Preparation-1
+https://youtu.be/xT6I2JwzP0Y
+
+Exam Preparation-2
+https://youtu.be/lqHvZhgmu0U
+
+Workshop: Wizard Side Scrolling Game
+https://youtu.be/-Fx5Wa6UBmo
+
+Regular Exam
+https://youtu.be/Ahm1RfpBwTU

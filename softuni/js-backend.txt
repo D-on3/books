@@ -1,0 +1,26 @@
+JAVASCRIPT BACK-END:
+
+
+INTRO TO JS BACK: https://youtu.be/K4jHD9axeUc
+
+Node.js Streams and Utilities: https://youtu.be/xQ4k6yl_qUU
+
+ExpressJS and Templating: https://youtu.be/edw758JLU04
+
+Workshop: ExpressJS and Templating: https://youtu.be/432R29mtxXM
+
+NoSQL and MongoDB: https://youtu.be/3N8ScbgyXiI
+
+Workshop: MongoDB and Mongoose: https://youtu.be/rIYH2AYfpZY
+
+Session and Authentication: https://youtu.be/Ur6GhhVCO9M
+
+Workshop: Session and Authentication: https://youtu.be/eLvUWeazJ74
+
+Validation and Error Handling: https://youtu.be/NWy5ndRl5lM
+
+Exam Preparation: https://youtu.be/NWy5ndRl5lM
+You sent
+Exam preparation: https://youtu.be/RNHlHAnhIJo
+You sent
+Workshop: REST API: https://youtu.be/J0E8xITi6_0

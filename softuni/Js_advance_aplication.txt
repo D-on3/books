@@ -1,0 +1,75 @@
+JS APPLICATIONS - February 
+
+Course Introduction
+https://youtu.be/tfmZO1X1LxQ
+
+HTTP and REST Services
+https://youtu.be/GuQzx2K6nF0
+
+Exercise: HTTP and REST Services
+https://youtu.be/M834YY90f5g
+
+Asynchronous Programming
+https://youtu.be/X_c-eyEQAWA
+
+Exercise: Asynchronous Programming
+https://youtu.be/DNo7-IsFZYE
+
+Remote Data and Authentication
+https://youtu.be/5-otDlC2iXU
+
+Exercise: Remote Data and Authentication
+https://youtu.be/0psbF5bqDVs
+
+Single Page Applications
+https://youtu.be/3f5erPO9aDs
+
+Exercise: Single Page Applications
+https://youtu.be/RqMghKE3qFI
+https://github.com/viktorpts/movies-spa
+
+Architecture and Testing
+https://youtu.be/uZcIvALeQTE
+
+
+Exercise: Architecture and Testing
+https://youtu.be/BJ-P221Hefk
+
+Client Side Rendering
+https://youtu.be/RdITn8zwZ_Y
+
+Exercise: Client Side Rendering
+https://youtu.be/VUXXAxEY_nE
+
+Routing
+https://youtu.be/VMYC4wLYUFY
+
+Exercise: Routing
+https://youtu.be/L9mHs-mxbwQ
+
+Modular Applications
+https://youtu.be/kBXCqfwzJzE
+
+Exercise: Modular Applications
+https://youtu.be/nLq3p6t1h9s
+
+Exam Preparation-1
+https://youtu.be/72zbtZtL4po
+Exam Preparation-2
+https://youtu.be/WRifX7Spzmg
+
+Workshop: End-to-End Application - Part 1
+https://youtu.be/TfgLEdceY8o
+
+Workshop: End-to-End Application - Part 2
+https://youtu.be/233y-_1_CB8
+
+Q&A Session
+https://youtu.be/UBQCz5EeU2U
+
+
+Workshop: Webpack
+https://youtu.be/JKCGUw_TU1w
+
+Regular Exam
+https://youtu.be/Vw-KbVyo4Lo

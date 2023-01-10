@@ -1,0 +1,40 @@
+PROGRAMMING FUNDAMENTALS WITH JS
+https://youtu.be/9D3Rl_5xxU4
+Exercise: Basic Syntax, Conditional Statements and Loops
+https://youtu.be/LeFMi8ycQA8
+Data Types and Variables
+https://youtu.be/yPYV-2ZmFQo
+Exercise: Data Types and Variables
+https://youtu.be/rZsY_6su1Z0
+arrays
+https://youtu.be/J52FROo0qO0
+E:arrays
+https://youtu.be/SHh7Ax_lb9M
+func
+https://youtu.be/fFjb8HeCJew
+e:func
+https://youtu.be/Fk82e7x5wGA
+array adv
+https://youtu.be/6N23jHlQoLk
+e:array adv
+https://youtu.be/sphormV3AYs
+exam prep
+https://youtu.be/JPwZDFRn6yY
+object and classes
+https://youtu.be/JPwZDFRn6yY
+e:object classes
+https://youtu.be/c6-Uv2fyA9M
+associative arrays
+https://youtu.be/wD2eMH3hv_o
+e: associative arrays
+https://youtu.be/JS93b0Mog_M
+text processing
+https://youtu.be/vAO0TJAmck4
+e:text processing
+https://youtu.be/ZhwQRBpidus
+regular expressions
+https://youtu.be/PPH4jiTDJ3g
+e:regex
+https://youtu.be/SgCKJBLtKEU
+exam prep
+https://youtu.be/zaa5mHq5M0g

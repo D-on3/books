@@ -1,0 +1,29 @@
+python advanced
+
+https://www.youtube.com/watch?v=YNHJKx67Z64&list=PLj9NfekISoThMbhFg89YIC_qwSSTjiime
+js back-end
+https://www.youtube.com/watch?v=744Rw0Zf8DI&list=PLj9NfekISoThAirfNokLM62MZsMRf8_nY js-Node= backend
+
+fundumatals python 
+https://www.youtube.com/watch?v=WtvsN9X4gMs&list=PLj9NfekISoTgo_ijtyS6ZPjDrm9RjrS69
+
+js web
+
+https://www.youtube.com/watch?v=wHm5ZtFOMBM&list=PLj9NfekISoThqv-SbYX2IrzyX-vYeQtEm
+
+.NET
+
+https://www.youtube.com/watch?v=CM-WA6I2J-o&list=PLKgZxrzvE54C0jNGlNviCeFAGtYHZ6nLq
+
+mssql
+
+https://www.youtube.com/watch?v=4uwArOTPlyQ&list=PLKgZxrzvE54Coczc4th7mn1SG9bvFktZI
+
+
+sys admin dev ops
+
+https://github.com/B0bbyD1g1tal/psychic-fiesta/blob/6af13ef03b4ec5bc209ea251b4fc11a4ec6a1b9a/README.md
+
+java all courses има txt failove v koito sa linkovete 
+
+https://github.com/NenoPanchev/softuni-courses/tree/49e32db9c3e51693780084b1ca04ea6e992f0a2e
